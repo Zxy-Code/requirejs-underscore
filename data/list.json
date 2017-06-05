@@ -4,7 +4,7 @@
 	"inf":"index-list",
 	"data":[
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/jlbhd.jpg",
 			"title":"加勒比海盗5：死无对证",
 			"num":"10000",
@@ -14,7 +14,7 @@
 			"iLike":1
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/sjbbb.jpg",
 			"title":"摔跤吧！爸爸",
 			"num":"10000",
@@ -23,7 +23,7 @@
 			"price":"19.9"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yxjq.jpg",
 			"title":"异星觉醒",
 			"num":"10000",
@@ -32,7 +32,7 @@
 			"price":"19.9"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yhhwd.jpg",
 			"title":"詹姆斯·古恩",
 			"num":"10000",
@@ -41,7 +41,7 @@
 			"price":"19.0"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/jlbhd.jpg",
 			"title":"加勒比海盗5：死无对证",
 			"num":"10000",
@@ -50,7 +50,7 @@
 			"price":"20.0"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/sjbbb.jpg",
 			"title":"摔跤吧！爸爸",
 			"num":"10000",
@@ -59,7 +59,7 @@
 			"price":"19.9"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yxjq.jpg",
 			"title":"异星觉醒",
 			"num":"10000",
@@ -68,7 +68,7 @@
 			"price":"19.9"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yhhwd.jpg",
 			"title":"詹姆斯·古恩",
 			"num":"10000",
@@ -77,7 +77,7 @@
 			"price":"19.0"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/jlbhd.jpg",
 			"title":"加勒比海盗5：死无对证",
 			"num":"10000",
@@ -86,7 +86,7 @@
 			"price":"20.0"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/sjbbb.jpg",
 			"title":"摔跤吧！爸爸",
 			"num":"10000",
@@ -95,7 +95,7 @@
 			"price":"19.9"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yxjq.jpg",
 			"title":"异星觉醒",
 			"num":"10000",
@@ -104,7 +104,7 @@
 			"price":"19.9"
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yhhwd.jpg",
 			"title":"詹姆斯·古恩",
 			"num":"10000",
