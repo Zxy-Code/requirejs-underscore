@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>排行榜</title>
+	<link rel="stylesheet" href="../css/rank.css">
+	<script >
+	    var $CONFIG = {
+	        baseUrl: '../data',
+	        staticUrl: "../"
+	    }
+    </script>
+</head>
+<body>
+	<header></header>
+	<div class="content"></div>
+	<script type="text/javascript">
+	    var require = {
+	      baseUrl: $CONFIG.staticUrl+"js",
+	      urlArgs:  'version='+ +new Date(),
+	      deps: ['config']
+	    };
+	</script>
+	<script data-main="../js/rank" src="../js/lib/require.min.js"></script>
+	<!-- <script type="text/javascript" src="../js/config.js"></script> -->
+	
+</body>
+</html>

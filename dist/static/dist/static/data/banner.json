@@ -1,0 +1,18 @@
+{
+	"success":1,
+	"msg":"success",
+	"data":[
+		{
+			"url":"https://market.m.taobao.com/markets/TaoBaoMovie/chaojiquanyi?s=tb&spm=dianying.tb.1.1&cityCode=310100",
+			"banner":"../images/banner1.jpg"
+		},
+		{
+			"url":"https://market.m.taobao.com/markets/TaoBaoMovie/chaojiquanyi?s=tb&spm=dianying.tb.1.1&cityCode=310100",
+			"banner":"../images/banner2.jpg"
+		},
+		{
+			"url":"https://market.m.taobao.com/markets/TaoBaoMovie/chaojiquanyi?s=tb&spm=dianying.tb.1.1&cityCode=310100",
+			"banner":"../images/banner3.jpg"
+		}
+	]
+}

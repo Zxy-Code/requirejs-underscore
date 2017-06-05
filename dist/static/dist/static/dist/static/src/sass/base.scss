@@ -1,0 +1,46 @@
+@import "compass/reset";
+@import "compass/typography";
+@import "compass/css3";
+html,body,p,div,span,a{
+  font-family: "PingFangSC-Medium";
+}
+
+body{
+  background:rgba(0,0,0,0.03);
+  font:12px/1 Tahoma,Helvetica,Arial,\\5B8B\4F53,sans-serif;
+}
+body *{
+  box-sizing: border-box; 
+  font-family: Microsoft YaHei;
+}
+a{
+  text-decoration: none;
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+  -webkit-tap-highlight-color: transparent;
+}
+.hide{
+  display: none;
+}
+.loadmore{
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    color: #129bf0;
+    font-size: 14px;
+    display: none;
+}
+.btoast{
+    background: #000;
+    color: #fff;
+    font-size: 14px;
+    width: 80%;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    position: fixed;
+    bottom: 20%;
+    margin-left: -40%;
+    left: 50%;
+    border-radius: 8px;
+    opacity:0.8;
+}

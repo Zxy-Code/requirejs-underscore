@@ -1,0 +1,116 @@
+{
+	"success":1,
+	"msg":"success",
+	"inf":"index-list",
+	"data":[
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/jlbhd.jpg",
+			"title":"加勒比海盗5：死无对证",
+			"num":"10000",
+			"director":"乔阿吉姆·罗恩尼",
+			"starring":"约翰尼·德普 哈维尔·巴登",
+			"price":"20.0",
+			"iLike":1
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/sjbbb.jpg",
+			"title":"摔跤吧！爸爸",
+			"num":"10000",
+			"director":"尼特什 提瓦瑞",
+			"starring":"阿米尔·汗 萨卡诗·泰瓦",
+			"price":"19.9"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/yxjq.jpg",
+			"title":"异星觉醒",
+			"num":"10000",
+			"director":"丹尼尔·伊斯皮诺萨",
+			"starring":"杰克·吉伦哈尔",
+			"price":"19.9"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/yhhwd.jpg",
+			"title":"詹姆斯·古恩",
+			"num":"10000",
+			"director":"詹姆斯·古恩",
+			"starring":"克里斯·帕拉特",
+			"price":"19.0"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/jlbhd.jpg",
+			"title":"加勒比海盗5：死无对证",
+			"num":"10000",
+			"director":"乔阿吉姆·罗恩尼",
+			"starring":"约翰尼·德普 哈维尔·巴登",
+			"price":"20.0"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/sjbbb.jpg",
+			"title":"摔跤吧！爸爸",
+			"num":"10000",
+			"director":"尼特什 提瓦瑞",
+			"starring":"阿米尔·汗 萨卡诗·泰瓦",
+			"price":"19.9"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/yxjq.jpg",
+			"title":"异星觉醒",
+			"num":"10000",
+			"director":"丹尼尔·伊斯皮诺萨",
+			"starring":"杰克·吉伦哈尔",
+			"price":"19.9"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/yhhwd.jpg",
+			"title":"詹姆斯·古恩",
+			"num":"10000",
+			"director":"詹姆斯·古恩",
+			"starring":"克里斯·帕拉特",
+			"price":"19.0"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/jlbhd.jpg",
+			"title":"加勒比海盗5：死无对证",
+			"num":"10000",
+			"director":"乔阿吉姆·罗恩尼",
+			"starring":"约翰尼·德普 哈维尔·巴登",
+			"price":"20.0"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/sjbbb.jpg",
+			"title":"摔跤吧！爸爸",
+			"num":"10000",
+			"director":"尼特什 提瓦瑞",
+			"starring":"阿米尔·汗 萨卡诗·泰瓦",
+			"price":"19.9"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/yxjq.jpg",
+			"title":"异星觉醒",
+			"num":"10000",
+			"director":"丹尼尔·伊斯皮诺萨",
+			"starring":"杰克·吉伦哈尔",
+			"price":"19.9"
+		},
+		{
+			"url":"/src/html/detail.html",
+			"coverUrl":"../images/yhhwd.jpg",
+			"title":"詹姆斯·古恩",
+			"num":"10000",
+			"director":"詹姆斯·古恩",
+			"starring":"克里斯·帕拉特",
+			"price":"19.0"
+		}
+	]
+}
