@@ -1,0 +1,11 @@
+@import "compass/layout";
+@import "./base.scss";
+@import "./swiper.scss";
+@import "./header.scss";
+@import "./list.scss";
+@import "./footer-nav.scss";
+.content{
+	padding: 0 15px;
+	background: #fff;
+	margin-bottom: 51px;	
+}

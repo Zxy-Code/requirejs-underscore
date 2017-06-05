@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>个人中心</title>
+	<link rel="stylesheet" href="../css/myzone.css">
+	<script >
+	    var $CONFIG = {
+	        baseUrl: '../data',
+	        // staticUrl: "../"
+	    }
+    </script>
+</head>
+<body>
+	<div class="title">个人中心</div>
+	<div class="top-profile">
+		<div class="protrait">
+			<img src="../images/protrait.jpg" alt="" width=100% height=100%>
+		</div>
+		<div class="name">牛掰放学你别走</div>
+	</div>
+
+	<div class="content">
+		<a class="iLike">已购买</a>
+		<a class="iLike">看过</a>
+		<a class="iLike">优惠券</a>
+		<a class="iLike">关注</a>
+		<a class="iLike">设置</a>
+	</div>
+	<script type="text/javascript">
+	    var require = {
+	      // baseUrl: $CONFIG.staticUrl+"js/",
+	      urlArgs:  'version='+ +new Date(),
+	      deps: ['config']
+	    };
+	</script>
+	<script data-main="../js/myzone" src="../js/lib/require.min.js"></script>
+</body>
+</html>

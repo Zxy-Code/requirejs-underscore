@@ -1,0 +1,43 @@
+@import "compass/layout";
+@import "./base.scss";
+@import "./footer-nav.scss";
+
+.title{
+	background: #2b2b2b;
+	font-size: 16px;
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	line-height: 45px;
+}
+.top-profile{
+	margin: 15px 0;
+	background: #fff;
+	display: flex;
+	.protrait{
+		margin: 8px 15px;
+		height: 105px;
+		width: 105px;
+	}
+	.name{
+		line-height: 120px;
+		color: #4c4c4c;
+		font-size: 16px;
+		font-weight: bold;
+	}
+}
+.content{
+	.iLike{
+		display: block;
+		background: #fff;
+		padding: 0 20px;
+		line-height: 50px;
+		color: #999;
+		font-size: 15px;
+		margin-bottom: 2px;
+		&:nth-child(3),
+		&:nth-child(5){
+			margin-top: 20px;
+		}
+	}
+}
