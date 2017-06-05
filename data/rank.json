@@ -4,7 +4,7 @@
 	"inf":"rank",
 	"data":[
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/jlbhd.jpg",
 			"title":"加勒比海盗5：死无对证",
 			"num":"10000",
@@ -14,7 +14,7 @@
 			"sort":1
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/sjbbb.jpg",
 			"title":"摔跤吧！爸爸",
 			"num":"10000",
@@ -24,7 +24,7 @@
 			"sort":2
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yxjq.jpg",
 			"title":"异星觉醒",
 			"num":"10000",
@@ -34,7 +34,7 @@
 			"sort":3
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yhhwd.jpg",
 			"title":"詹姆斯·古恩",
 			"num":"10000",
@@ -44,7 +44,7 @@
 			"sort":4
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/jlbhd.jpg",
 			"title":"加勒比海盗5：死无对证",
 			"num":"10000",
@@ -54,7 +54,7 @@
 			"sort":5
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/sjbbb.jpg",
 			"title":"摔跤吧！爸爸",
 			"num":"10000",
@@ -64,7 +64,7 @@
 			"sort":6
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yxjq.jpg",
 			"title":"异星觉醒",
 			"num":"10000",
@@ -74,7 +74,7 @@
 			"sort":7
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/yhhwd.jpg",
 			"title":"詹姆斯·古恩",
 			"num":"10000",
@@ -84,7 +84,7 @@
 			"sort":8
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/jlbhd.jpg",
 			"title":"加勒比海盗5：死无对证",
 			"num":"10000",
@@ -94,7 +94,7 @@
 			"sort":9
 		},
 		{
-			"url":"/dist/static/src/html/detail.html",
+			"url":"detail.html",
 			"coverUrl":"../images/sjbbb.jpg",
 			"title":"摔跤吧！爸爸",
 			"num":"10000",
